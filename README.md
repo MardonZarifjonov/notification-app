@@ -12,15 +12,32 @@
 
 ## Key points explanation
 
-Using postman you can send POST requests to send notifications<br/>;
-In form-data you need to specify the method by which you want to send the notification<br/>;
-In order to do so specify one of the key or both of them (send_by_email and send_by_sms) to 1 <br/>;
+Using postman you can send POST requests to send notifications;<br/>
+In form-data you need to specify the method by which you want to send the notification;<br/>
+In order to do so specify one of the key or both of them (send_by_email and send_by_sms) to 1; <br/>
 
 ## Screenshots of execution reslults
 
-- Sending by email<br/>
+- Sending by Email only<br/>
 
 ![Alt text](screenshots/res1.png?raw=true)
 <br/>
 <br/>
 ![Alt text](screenshots/res1_1.png?raw=true)
+<br/>
+
+- Sending by SMS only<br/>
+
+![Alt text](screenshots/res2.png?raw=true)
+<br/>
+<br/>
+![Alt text](screenshots/res2_2.png?raw=true)
+<br/>
+
+- Sending by both Email and SMS<br/>
+
+![Alt text](screenshots/res3.png?raw=true)
+<br/>
+<br/>
+![Alt text](screenshots/res3_3.png?raw=true)
+<br/>
