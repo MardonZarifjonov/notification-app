@@ -16,6 +16,10 @@ Using postman you can send POST requests to send notifications;<br/>
 In form-data you need to specify the method by which you want to send the notification;<br/>
 In order to do so specify one of the key or both of them (send_by_email and send_by_sms) to 1; <br/>
 
+## Postman collection link
+
+- Link: https://documenter.getpostman.com/view/8820727/SztD6TiV
+
 ## Screenshots of execution reslults
 
 - Sending by Email only<br/>
